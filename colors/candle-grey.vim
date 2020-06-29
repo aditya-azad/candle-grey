@@ -68,7 +68,7 @@ hi MoreMsg         ctermfg=White        ctermbg=Black    cterm=none    guifg=#D9
 hi MatchParen      ctermfg=DarkRed      ctermbg=DarkGray     cterm=none    guifg=#D99962    guibg=#404040    gui=none
 hi Visual          ctermfg=White        ctermbg=DarkGray     cterm=none    guifg=#F2F2F2    guibg=#404040    gui=none
 hi VisualNOS       ctermfg=White        ctermbg=DarkGray     cterm=none    guifg=#F2F2F2    guibg=#404040    gui=none
-hi NonText         ctermfg=DarkGray     ctermbg=Black        cterm=none    guifg=#404040    guibg=#0D0D0D    gui=none
+hi NonText         ctermfg=DarkGray     ctermbg=Black        cterm=none    guifg=#0D0D0D    guibg=#0D0D0D    gui=none
 
 hi Todo            ctermfg=White        ctermbg=Black    cterm=none    guifg=#F2F2F2    guibg=#0D0D0D    gui=none
 hi Underlined      ctermfg=White        ctermbg=Black    cterm=none    guifg=#F2F2F2    guibg=#0D0D0D    gui=none
