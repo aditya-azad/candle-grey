@@ -11,7 +11,7 @@
 
 - Using vim plug:
 
-```
+```vim
 Plug 'aditya-azad/candle-grey'
 ```
 
