@@ -25,5 +25,5 @@ Just copy the `colors` folder to your vim colors folder (usually `~/.vim/colors/
 
 ```vim
 set t_Co=256 " enable colors in terminal
-colorscheme simple-dark
+colorscheme candle-grey
 ```
