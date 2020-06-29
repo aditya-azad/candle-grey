@@ -1,21 +1,28 @@
 # Candle Grey
 
-A dark colorscheme with a hint of color.
+A dark colorscheme for vim.
+
+![screenshot](screenshot.png)
+
+### Note
+
+This has not yet been tested on
 
 ### Installation
 
-For vim you can do the following:
-If you're using something like vim plug you can simply add
+- Using vim plug:
 
 ```
 Plug 'aditya-azad/candle-grey'
 ```
 
-and run `:PlugInstall` to make sure the scheme is downloaded.
+and run `:PlugInstall`
 
-otherwise you can just copy the `colors` folder to your vim colors folder (usually `~/.vim/colors/`).
+- Manual install:
 
-Once you have the scheme just add this to your `vimrc`
+Just copy the `colors` folder to your vim colors folder (usually `~/.vim/colors/`).
+
+- Once you have the scheme just add this to your `vimrc`
 
 ```
 colorscheme simple-dark
