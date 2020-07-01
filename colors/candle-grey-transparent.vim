@@ -38,11 +38,11 @@ hi Folded          ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404
 " -------------------------
 " - Window/Tab delimiters -
 " -------------------------
-hi VertSplit       ctermfg=NONE        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
-hi ColorColumn     ctermfg=NONE        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
-hi TabLine         ctermfg=NONE        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
-hi TabLineFill     ctermfg=NONE        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
-hi TabLineSel      ctermfg=NONE        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
+hi VertSplit       ctermfg=DarkGrey        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
+hi ColorColumn     ctermfg=DarkGrey        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
+hi TabLine         ctermfg=DarkGrey        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
+hi TabLineFill     ctermfg=DarkGrey        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
+hi TabLineSel      ctermfg=DarkGrey        ctermbg=NONE    cterm=NONE    guifg=NONE    guibg=NONE    gui=NONE
 
 " -------------------------------
 " - File Navigation / Searching -
@@ -68,7 +68,7 @@ hi MoreMsg         ctermfg=210          ctermbg=NONE    cterm=NONE    guifg=#D99
 hi MatchParen      ctermfg=210          ctermbg=DarkGray     cterm=NONE    guifg=#D99962    guibg=#404040    gui=NONE
 hi Visual          ctermfg=White        ctermbg=DarkGray     cterm=NONE    guifg=#F2F2F2    guibg=#404040    gui=NONE
 hi VisualNOS       ctermfg=White        ctermbg=DarkGray     cterm=NONE    guifg=#F2F2F2    guibg=#404040    gui=NONE
-hi NonText         ctermfg=NONE         ctermbg=NONE         cterm=NONE    guifg=NONE       guibg=NONE       gui=NONE
+hi NonText         ctermfg=DarkGray     ctermbg=NONE         cterm=NONE    guifg=NONE       guibg=NONE       gui=NONE
 
 hi Todo            ctermfg=White        ctermbg=NONE    cterm=NONE    guifg=#F2F2F2    guibg=NONE    gui=NONE
 hi Underlined      ctermfg=White        ctermbg=NONE    cterm=NONE    guifg=#F2F2F2    guibg=NONE    gui=NONE
