@@ -77,6 +77,8 @@ hi ErrorMsg        ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404
 hi WarningMsg      ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404040    guibg=NONE    gui=NONE
 hi Ignore          ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404040    guibg=NONE    gui=NONE
 hi SpecialKey      ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404040    guibg=NONE    gui=NONE
+hi WhiteSpaceChar  ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404040    guibg=NONE    gui=NONE
+hi WhiteSpace      ctermfg=DarkGray     ctermbg=NONE    cterm=NONE    guifg=#404040    guibg=NONE    gui=NONE
 
 " --------------------------------
 " Variable types
