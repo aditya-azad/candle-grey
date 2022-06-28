@@ -3,7 +3,7 @@
 ![screenshot](screenshot.png)
 
 - A dark monochrome colorscheme for vim with a simple accent color
-- The primary purpose of these colors was to give an aesthetic look to vim while eleminating distracting colors
+- Give an aesthetic look to vim while eleminating distracting colors
 
 ### Installation
 
