@@ -20,7 +20,7 @@ and run `:PlugInstall`
 Just copy the `colors` folder to your vim colors folder (usually `~/.vim/colors/`).
 
 - Once you have the scheme just add this to your `vimrc`
-  - Use transparent variant if you have transparency enabled in your setup
+  - Use transparent version if you have transparency enabled in your setup
 
 ```vim
 set t_Co=256 " enable colors in terminal
